@@ -1,0 +1,106 @@
+Items: {
+	BearingItem: {
+		DisplayName: Bearing
+		Tooltip: ""
+	}
+
+	RebarItem: {
+		DisplayName: Rebar
+		Tooltip: ""
+	}
+
+	RivetedWallItem: {
+		DisplayName: Riveted Wall
+		Tooltip: ""
+	}
+
+	PulleyItem: {
+		DisplayName: Pulley Item
+		Tooltip: ""
+	}
+
+	AxleItem: {
+		DisplayName: Axle Item
+		Tooltip: ""
+	}
+
+	InfinityGeneratorItem: {
+		DisplayName: Infinity Generator Item
+		Tooltip: ""
+	}
+}
+
+Projectiles.SpatialBubble.DisplayName: Spatial Bubble
+
+Configs: {
+	SystemConfig: {
+		DisplayName: System Config
+
+		classWhitelist: {
+			Label: Class Whitelist
+			Tooltip: Determines if the Class List is a whitelist (true) or a blacklist (false)
+		}
+
+		classList: {
+			Label: Class List
+			Tooltip: The whitelist/blacklist for ModSystem classes that will have their methods ran
+		}
+
+		methodWhitelist: {
+			Label: Method Whitelist
+			Tooltip: Determines if the Method List is a whitelist (true) or a blacklist (false)
+		}
+
+		methodList: {
+			Label: Method List
+			Tooltip: The whitelist/blacklist for ModSystem methods that will be ran
+		}
+
+		pairWhitelist: {
+			Label: Pair Whitelist
+			Tooltip: The whitelist for specific methods in specific classes. Format is Class:Method (e.g. Techaria.Rendering:PostDrawTiles)
+		}
+
+		pairBlacklist: {
+			Label: Pair Blacklist
+			Tooltip: The blacklist for specific methods in specific classes. Format is Class:Method (e.g. Techaria.Rendering:PostDrawTiles)
+		}
+
+		Headers: {
+			Classes: Contraption ModSystem class list
+			Methods: Contraption ModSystem method list
+			Pairs: Contraption ModSystem pair lists
+			Dump: Dump Header
+		}
+
+		includeWhitelisted: {
+			Label: include Whitelisted
+			Tooltip: ""
+		}
+
+		includeBlacklisted: {
+			Label: include Blacklisted
+			Tooltip: ""
+		}
+
+		DumpClasses: {
+			Label: Dump Classes
+			Tooltip: ""
+		}
+
+		DumpMethods: {
+			Label: Dump Methods
+			Tooltip: ""
+		}
+
+		DumpPairs: {
+			Label: Dump Pairs
+			Tooltip: ""
+		}
+
+		DumpOutput: {
+			Label: Dump Output
+			Tooltip: ""
+		}
+	}
+}

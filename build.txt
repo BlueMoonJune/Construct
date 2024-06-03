@@ -1,0 +1,5 @@
+displayName = Construct
+author = BlueMoonJune
+version = 0.1
+modReferences = InventoryLib@0.0.0.1, CollisionLib@3.1
+noCompile = true

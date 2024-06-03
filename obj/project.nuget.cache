@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FO1ORaDLZ8YvjRqD9T64P7pdikWAsjnJreDzZOzQjyelhMqpsBqv3Uf+L+2gjgosD4O4M4+hJUUYGlSACM7KFw==",
+  "success": true,
+  "projectFilePath": "/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj",
+  "expectedPackageFiles": [
+    "/home/june/.nuget/packages/bepinex.assemblypublicizer.msbuild/0.4.1/bepinex.assemblypublicizer.msbuild.0.4.1.nupkg.sha512",
+    "/home/june/.nuget/packages/solaestas.tmodloader.modbuilder/1.4.1/solaestas.tmodloader.modbuilder.1.4.1.nupkg.sha512",
+    "/home/june/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "/home/june/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/bin/Debug/net8.0/Construct.deps.json
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/bin/Debug/net8.0/Construct.dll
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/bin/Debug/net8.0/Construct.pdb
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.csproj.AssemblyReference.cache
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.GeneratedMSBuildEditorConfig.editorconfig
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.AssemblyInfoInputs.cache
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.AssemblyInfo.cs
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.csproj.CoreCompileInputs.cache
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.dll
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/refint/Construct.dll
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/Construct.pdb
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/obj/Debug/net8.0/ref/Construct.dll

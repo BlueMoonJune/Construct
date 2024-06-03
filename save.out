@@ -1,0 +1,39 @@
+Mon Jun  3 09:47:04 AM PDT 2024
+MSBuild version 17.8.5+b5265ef37 for .NET
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj(3,2): warning MSB4011: "/home/june/.local/share/Terraria/tModLoader/ModSources/tModLoader.targets" cannot be imported again. It was already imported at "/home/june/.nuget/packages/solaestas.tmodloader.modbuilder/1.4.1/build/Solaestas.tModLoader.ModBuilder.props (2,2)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj(3,2): warning MSB4011: "/home/june/.local/share/Terraria/tModLoader/ModSources/tModLoader.targets" cannot be imported again. It was already imported at "/home/june/.nuget/packages/solaestas.tmodloader.modbuilder/1.4.1/build/Solaestas.tModLoader.ModBuilder.props (2,2)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  tModLoader Version: Stable
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(14,19): warning CS0660: 'BoxedTile' defines operator == or operator != but does not override Object.Equals(object o) [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Direction.cs(13,24): warning CS8509: The switch expression does not handle all possible values of its input type (it is not exhaustive). For example, the pattern '4' is not covered. [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(378,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(384,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(390,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(399,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Tilebox.cs(95,22): warning CS0414: The field 'Tilebox.init' is assigned but its value is never used [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(635,41): warning ChangeMagicNumberToID: The number 17 should be changed to MessageID.TileManipulation for readability [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(639,41): warning ChangeMagicNumberToID: The number 17 should be changed to MessageID.TileManipulation for readability [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(643,41): warning ChangeMagicNumberToID: The number 17 should be changed to MessageID.TileManipulation for readability [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+  Construct -> /home/june/.local/share/Terraria/tModLoader/ModSources/Construct/bin/Debug/net8.0/Construct.dll
+  Building Construct -> /home/june/Documents/My Games/Terraria/tModLoader/Mods/Construct.tmod
+  Building Success, costs 00:00:00.0197296
+
+Build succeeded.
+
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj(3,2): warning MSB4011: "/home/june/.local/share/Terraria/tModLoader/ModSources/tModLoader.targets" cannot be imported again. It was already imported at "/home/june/.nuget/packages/solaestas.tmodloader.modbuilder/1.4.1/build/Solaestas.tModLoader.ModBuilder.props (2,2)". This is most likely a build authoring error. This subsequent import will be ignored. 
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj(3,2): warning MSB4011: "/home/june/.local/share/Terraria/tModLoader/ModSources/tModLoader.targets" cannot be imported again. It was already imported at "/home/june/.nuget/packages/solaestas.tmodloader.modbuilder/1.4.1/build/Solaestas.tModLoader.ModBuilder.props (2,2)". This is most likely a build authoring error. This subsequent import will be ignored. 
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(14,19): warning CS0660: 'BoxedTile' defines operator == or operator != but does not override Object.Equals(object o) [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Direction.cs(13,24): warning CS8509: The switch expression does not handle all possible values of its input type (it is not exhaustive). For example, the pattern '4' is not covered. [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(378,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(384,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(390,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(399,13): warning CS0162: Unreachable code detected [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Tilebox.cs(95,22): warning CS0414: The field 'Tilebox.init' is assigned but its value is never used [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(635,41): warning ChangeMagicNumberToID: The number 17 should be changed to MessageID.TileManipulation for readability [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(639,41): warning ChangeMagicNumberToID: The number 17 should be changed to MessageID.TileManipulation for readability [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/BoxedTile.cs(643,41): warning ChangeMagicNumberToID: The number 17 should be changed to MessageID.TileManipulation for readability [/home/june/.local/share/Terraria/tModLoader/ModSources/Construct/Construct.csproj]
+    12 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.39
